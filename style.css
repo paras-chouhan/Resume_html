@@ -1,0 +1,11 @@
+.Headline_color{
+    background-color: rgb(204, 204, 124);
+}
+body{
+    background-color: skyblue;
+    background-image: url("resume_backgroud_image.jpg") repeating-linear-gradient(none);
+}
+
+.Subheading_color{
+    color: red;
+}
